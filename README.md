@@ -64,3 +64,6 @@ python manage.py runserver
 -   [Django](https://www.djangoproject.com/)  - свободный фреймворк для веб-приложений на языке Python.
 -   [Django REST Framework](https://www.django-rest-framework.org/)  - мощный и гибкий набор инструментов для создания веб-API.
 -   [Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)  - плагин аутентификации JSON Web Token для Django REST Framework.
+
+# Авторы:
+Никита Бражников, Александр Ермаков, Роман Хуснутдинов
